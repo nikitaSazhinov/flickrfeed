@@ -19,11 +19,11 @@ You will be scored on,
 Depending on the role your are applying, please take one of the following challenges,
 
 - [Front-end Javascript]()
-- [Full-Stack Javascript]()
+- [Full-Stack Javascript](https://github.com/miyagami-com/Coding-Cases/blob/main/Full-Stack.md)
 - [NLP & ML]()
 - [Data Engineer]()
 - [CI/CD & Automation]()
-- [Solutions Architect]())
+- [Solutions Architect]()
 
 
 Candidate should put their test results on a public branch named {firstName}-{lastName}. Once test is completed please notify the hiring team so they can review your work.
