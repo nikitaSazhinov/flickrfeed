@@ -3,10 +3,6 @@ const path = require('path');
 
 const app = express();
 
-// Serve the static files from the React app
-app.use(express.static(path.join(__dirname, 'client/build')));
-
-
 var xml2js = require('xml2js');
 const fetch = require('node-fetch')
 
